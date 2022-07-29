@@ -1,0 +1,17 @@
+@{
+  Layout = "_Layout";
+}
+
+@using HairSalon.Models;
+<div class="container">
+  <div class="jumbotron text-center">
+<h2>Stylist Details</h2>
+  </div>
+<hr />
+<h3>@ViewBag.Stylist.Name</h3>
+
+<p>@Html.ActionLink("Add new client", "Create", "Clients")</p>
+<p>@Html.ActionLink("Edit Stylist", "Edit", new { id = ViewBag.Stylist.StylistId }) </p>
+<p>@Html.ActionLink("Delete Stylist", "Delete", new { id = ViewBag.Stylist.StylistId })</p>
+<p>@Html.ActionLink("Back to list", "Index")</p>
+</div>
