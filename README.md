@@ -2,7 +2,7 @@
 
 #### By _**Joe Roaden**_  
 
-#### _An MVC application to organize the best restaurants in the neighborhood by their cuisine._  
+#### _An MVC application to add stlyists and their respective clients_  
 
 ---
 
