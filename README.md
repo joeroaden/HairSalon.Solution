@@ -29,7 +29,7 @@
 ---
 ## Description
 
-_An MVC Application that allows a user to add her stylists into a database and assign clients_
+_An MVC Application that allows a user to add stylists into a database and assign clients_
 
 
 _User Stories_
@@ -90,8 +90,6 @@ Run ```$ dotnet restore``` in the console.<br>
 Run ```$ dotnet run``` in the console
 </details>
 <br>
-
-This program was built using *`Microsoft .NET SDK 5.0.401`*, and may not be compatible with other versions. Your milage may vary.
 
 ---
 ## Known Bugs
