@@ -2,7 +2,7 @@
 
 #### By _**Joe Roaden**_  
 
-#### _An MVC application to add stlyists and their respective clients_  
+#### _An MVC application to add stlyists and their respective clients utilizing MySQLWorkbench_  
 
 ---
 
